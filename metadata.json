@@ -1,0 +1,6 @@
+{
+  "name": "OmniDomain",
+  "description": "Premium bulk domain registry scanner, short-name generator, AI design brainstormer, and deep WHOIS/valuation analyzer powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
